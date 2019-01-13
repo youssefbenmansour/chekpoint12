@@ -1,0 +1,43 @@
+.div1{
+width :35%;
+background-color: lightblue;
+display: inline-block;
+height: 447px;
+
+}
+.head{
+   
+    width: 50%;
+   
+  
+}
+.ol{
+    vertical-align: top;
+        width: 60%;
+
+        padding: 0;
+        position: relative;
+        left: -4px;
+        margin: 0;
+}
+.div2{
+    display: inline-block;
+    background-color: #E0F8F7;
+height: 447px;
+width:50%;
+vertical-align: top; 
+
+}
+form{
+    padding-left:20px;
+}
+.div3{
+    display:block;
+}
+.body{
+    background:#58ACFA ;
+}
+.test{
+    height:50px;
+    width:600px ; 
+}
